@@ -4,7 +4,7 @@ Online shop prototype implemented using React, Redux, React Router, and React Ma
 for educational purposes, that is to improve my understanding of react.
 
 
-<img src="https://raw.githubusercontent.com/giorgi-m/online-shop/master/src/Images/screenshot.PNG" width="820" height="420">
+<img src="https://raw.githubusercontent.com/giorgi-m/online-shop/master/src/Images/shadowmarket.png" width="820" height="420">
  
 
 **Some features**:
